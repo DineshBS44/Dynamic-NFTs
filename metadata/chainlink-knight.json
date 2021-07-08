@@ -1,0 +1,19 @@
+{
+  "name": "Knight",
+  "description": "A Dungeon warrior",
+  "image": "https://ipfs.io/ipfs/QmdRJMDK5DTV9WX5uNjvGGhhUjL8Lkqo6gUd9cy22MiZA8?filename=knight_warrior.png",
+  "attributes": [
+    {
+      "trait_type": "Strength",
+      "value": 78
+    },
+    {
+      "trait_type": "Speed",
+      "value": 20
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 66
+    }
+  ]
+}
